@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://imeeting.workcloud.cn/config/hdjy/box.ipa</string>
+					<string>http://122.224.203.150:81/CollegeAPPIOS/APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,15 +27,15 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://imeeting.workcloud.cn/config/hdjy/Icon.png</string>
+					<string>http://122.224.203.150:81/CollegeAPPIOS/APK/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dreamsoft.hdjy</string>
+				<string>com.dreamsoft.hzdx</string>
 				<key>bundle-version</key>
-				<string>1.01</string>
+				<string>1.02</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
