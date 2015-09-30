@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.80.199.107:9901/CollegeAPP/APK/app.ipa</string>
+					<string>http://218.80.199.107:9901/CollegeAPP/APK/box.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.80.199.107:9901/CollegeAPP/Icon.png</string>
+					<string>http://218.80.199.107:9901/CollegeAPP/APK/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
