@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.18.90.41:8080/ezweb/apple.ipa</string>
+					<string>http://moa.xinhuamed.com.cn:8082/ezweb/config/mobile_client/ios/oa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://imeeting.workcloud.cn/imeeting/app/itunesArtwork.png</string>
+					<string>http://moa.xinhuamed.com.cn:8082/ezweb/config/mobile_client/ios/itunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.18.90.41:8080/ezweb/Icon.png</string>
+					<string>http://moa.xinhuamed.com.cn:8082/ezweb/config/mobile_client/ios/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
