@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.11.46.37/CollegeAPP/APK/iosServices.ipa</string>
+					<string>http://app.xianswdx.cn/CollegeAPP/APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://221.11.46.37/CollegeAPP/APK/itunesArtwork.png</string>
+					<string>http://app.xianswdx.cn/CollegeAPP/APK/itunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://221.11.46.37/CollegeAPP/APK/APK/Icon.png</string>
+					<string>http://app.xianswdx.cn/CollegeAPP/APK/APK/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
