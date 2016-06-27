@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://222.204.170.80/CollegeAPPwx/apk/iosServices.ipa</string>
+					<string>http://218.80.199.97:9902/CollegeAPPwx/apk/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.204.170.80/CollegeAPPwx/apk/itunesArtwork.png</string>
+					<string>http://218.80.199.97:9902/CollegeAPPwx/apk/itunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://222.204.170.80/CollegeAPPwx/apk/Icon.png</string>
+					<string>http://218.80.199.97:9902/CollegeAPPwx/apk/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
