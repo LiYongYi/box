@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.dreamsoft.gddx</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>iPhone/iPad版</string>
 				<key>title</key>
-				<string>广东省委党校学员版</string>
+				<string>学员助手</string>
 			</dict>
 		</dict>
 	</array>
