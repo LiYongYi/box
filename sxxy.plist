@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.sxxzxy.cn/CollegeAPPStudent/APK/iosServices.ipa</string>
+					<string>http://app.sxxzxy.cn/CollegeAPP/APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://app.sxxzxy.cn/CollegeAPPStudent/APK/iTunesArtwork.png</string>
+					<string>http://app.sxxzxy.cn/CollegeAPP/APK/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://app.sxxzxy.cn/CollegeAPPStudent/APK/Icon.png</string>
+					<string>http://app.sxxzxy.cn/CollegeAPP/APK/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.dreamsoft.sxxy</string>
 				<key>bundle-version</key>
-				<string>1.10</string>
+				<string>1.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>iPhone/iPad版</string>
 				<key>title</key>
-				<string>陕西省行政学院学员版</string>
+				<string>智慧行院</string>
 			</dict>
 		</dict>
 	</array>
