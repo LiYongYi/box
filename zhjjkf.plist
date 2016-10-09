@@ -2,16 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
+	<key>items</key>
+	<array>
+		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yun.ycswdx.gov.cn/CollegeAPP/APK/iosServices.ipa</string>
+					<string>http://113.106.111.50:8088/IPadsfb/Mobile_ZH//APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://xy.ccps.gov.cn/download/itunesArtwork.png</string>
+					<string>http://113.106.111.50:8088/IPadsfb/Mobile_ZH/APK/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://yun.ycswdx.gov.cn/CollegeAPP/APK/Icon.png</string>
+					<string>http://113.106.111.50:8088/IPadsfb/Mobile_ZH/Content/imag/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dreamsoft.ycdx</string>
+				<string>com.dreamsoft.zhjjkf</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>iPhone/iPad版</string>
 				<key>title</key>
-				<string>盐城党校</string>
+				<string>高栏港移动办公</string>
 			</dict>
 		</dict>
 	</array>
