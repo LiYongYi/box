@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dreamsoft.nmghbt</string>
+				<string>cn.com.dreamsoft.nmghbt</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>iPhone/iPad版</string>
 				<key>title</key>
-				<string>内蒙环保</string>
+				<string>公文管理</string>
 			</dict>
 		</dict>
 	</array>
