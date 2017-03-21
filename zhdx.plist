@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.7/CollegeAPP/APK/iosServices.ipa</string>
+					<string>http://219.131.199.188:81/CollegeAPP/APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dreamsoft.gddx</string>
+				<string>com.dreamsoft.zhdx</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
