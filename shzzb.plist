@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.shxdx.com:8080/update/apple.ipa</string>
+					<string>http://117.184.59.230:88/CollegeApp/APK/iosServices.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://m.shxdx.com:8080/update/images/itunesArtwork.png</string>
+					<string>http://117.184.59.230:88/CollegeApp/APK/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://m.shxdx.com:8080/update/images/Icon.png</string>
+					<string>http://117.184.59.230:88/CollegeApp/APK/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dreamsoft.sxswdx</string>
+				<string>com.dreamsoft.shzzb</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>iPhone/iPad版</string>
 				<key>title</key>
-				<string>i党校</string>
+				<string>外向型培训</string>
 			</dict>
 		</dict>
 	</array>
