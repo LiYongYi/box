@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://106.37.208.240:8081/update/apple.ipa</string>
+					<string>http://106.37.208.240:8082/update/apple.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://106.37.208.240:8081/update/images/itunesArtwork.png</string>
+					<string>http://106.37.208.240:8082/update/images/itunesArtwork.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://106.37.208.240:8081/update/images/Icon.png</string>
+					<string>http://106.37.208.240:8082/update/images/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
